@@ -2,7 +2,7 @@
   "name": "charsorter",
   "version": "1.0.0",
   "description": "string sorter",
-  "main": "index.js",
+  "main": "client/index.html",
   "scripts": {
     "test": "test"
   },
