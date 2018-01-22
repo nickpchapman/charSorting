@@ -1,0 +1,18 @@
+{
+  "name": "charsorter",
+  "version": "1.0.0",
+  "description": "string sorter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "charSorter"
+  },
+  "author": "Nick Chapman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
